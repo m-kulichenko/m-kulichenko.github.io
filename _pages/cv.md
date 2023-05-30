@@ -36,8 +36,10 @@ Skills
 ======
 <!-- Example of microchip
  Example of diamond
+  Example of bug
+   Example of flask
  keyboard-o -->
-* Programming
+* <li><i class="fa fa-fw fa-bug" aria-hidden="true"></i>Programming</li>
   * Python, Matlab
 * <li><i class="fa fa-fw fa-database" aria-hidden="true"></i>Machine Learning</li>
   * PyTorch
