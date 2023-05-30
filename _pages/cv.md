@@ -51,12 +51,20 @@ Publications
     {% include archive-single-publications-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
+Media Highlights
+======
+1.	https://www.chemistryworld.com/news/trinuclear-complex-is-a-rare-example-of-bottled-double-aromaticity/4012766.article
+2.	https://www.chemistryworld.com/news/aromaticity-lends-stability-to-carbon-only-catenanes/4011158.article
+3.	https://www.usu.edu/today/story/research-on-remote-usu-chemistry-grad-students-awarded-prestigious-internships
+4.	https://www.usu.edu/today/story/usu-chemist-awarded-prestigious-postdoctoral-post-at-los-alamos-national-lab
+5.	https://www.nature.com/articles/s43588-023-00420-7
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
