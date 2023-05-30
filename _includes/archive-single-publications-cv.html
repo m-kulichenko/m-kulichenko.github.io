@@ -37,9 +37,9 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt }}</p>{% endif %}
     
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}}</p>{% endif %}
+    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description"> <i>{{ post.venue }}</i>, <b>{{ post.date | default: "1900-01-01" | date: "%Y" }}</b>, {{ post.issue_pages}}  </p>{% endif %}
     </li>
  </article>
 </div>
