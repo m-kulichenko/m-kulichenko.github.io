@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Logan, UT"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant
 
 Heading 1
 ======
