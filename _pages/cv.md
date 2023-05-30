@@ -37,11 +37,11 @@ Skills
 
 * Programming
   * Python, Matlab
-* Machine Learning
+* <li><i class="fa fa-fw fa-database" aria-hidden="true"></i></li>Machine Learning
   * PyTorch
   * Machine learned interatomic potentials
   * Uncertainty quantification
-  * <li><i class="fa fa-fw fa-database" aria-hidden="true"></i>Atomistic data mining</li>
+  * Atomistic data mining
 * Computational Chemistry
   * Ab initio and semiempirical frameworks
   * Molecular dynamics 
