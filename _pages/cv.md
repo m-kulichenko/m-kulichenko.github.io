@@ -17,15 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 - present: Director’s Postdoc Fellow
+  * Los Alamos National Laboratory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - 2022: Graduate Contractor
+  * Los Alamos National Laboratory
   
 Skills
 ======
