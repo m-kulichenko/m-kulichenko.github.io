@@ -1,6 +1,7 @@
 ---
-title: "1. Inorganic Molecular Electride Mg<sub>4</sub>O<sub>3</sub>: Structure, Bonding and Nonlinear Optical Properties"
+title: "Inorganic Molecular Electride Mg<sub>4</sub>O<sub>3</sub>: Structure, Bonding and Nonlinear Optical Properties"
 collection: publications
+number: 1
 # permalink: 'https://doi.org/10.1002/chem.201806372'
 excerpt: 'M. Kulichenko, N. Fedik, K. V. Bozhenko, A. I. Boldyrev'
 date: 2019-01-01
