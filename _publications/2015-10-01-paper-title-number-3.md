@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "High-Resolution Photoelectron Imaging of IrB<sub>3</sub><sup>-</sup>: Observation of a p-Aromatic B3+ Ring Coordinated to a Transition Metal"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+number: 3
+excerpt: 'J. Czekner, L. F. Cheung, S. G. Kocheril, M. Kulichenko, A. I. Boldyrev, L.-S. Wang'
+date: 2019-02-01
+venue: 'Angew. Chem. Int. Ed.'
+issue_pages: 58, 8877-8881
+paperurl: 'https://doi.org/10.1002/anie.201902406'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
