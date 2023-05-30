@@ -34,10 +34,12 @@ Work experience
 
 Skills
 ======
-
+<!-- Example of microchip
+ Example of diamond
+ keyboard-o -->
 * Programming
   * Python, Matlab
-* <li><i class="fa fa-fw fa-database" aria-hidden="true"></i></li>Machine Learning
+* <li><i class="fa fa-fw fa-database" aria-hidden="true"></i>Machine Learning</li>
   * PyTorch
   * Machine learned interatomic potentials
   * Uncertainty quantification
