@@ -2,7 +2,7 @@
 title: "1. Inorganic Molecular Electride Mg4O3: Structure, Bonding and Nonlinear Optical Properties"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'M. Kulichenko, N. Fedik, K. V. Bozhenko, A. I. Boldyrev'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: ' https://doi.org/10.1002/chem.201806372'
@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Maksim Kulichenko, Nikita Fedik, Konstantin V. Bozhenko, Alexander I. Boldyrev <i>Journal 1</i>. 1(1).
+Recommended citation:  <i>Journal 1</i>. 1(1).
