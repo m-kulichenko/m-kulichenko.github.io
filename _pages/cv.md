@@ -62,10 +62,10 @@ Publications
 Media Highlights
 ======
 1.	<a href="https://www.chemistryworld.com/news/trinuclear-complex-is-a-rare-example-of-bottled-double-aromaticity/4012766.article">Trinuclear complex is a rare example of bottled double aromaticity</a>
-2.	<p href="https://www.chemistryworld.com/news/aromaticity-lends-stability-to-carbon-only-catenanes/4011158.article">Aromaticity lends stability to carbon-only catenanes</p>
-3.	https://www.usu.edu/today/story/research-on-remote-usu-chemistry-grad-students-awarded-prestigious-internships
-4.	https://www.usu.edu/today/story/usu-chemist-awarded-prestigious-postdoctoral-post-at-los-alamos-national-lab
-5.	https://www.nature.com/articles/s43588-023-00420-7
+2.	<a href="https://www.chemistryworld.com/news/aromaticity-lends-stability-to-carbon-only-catenanes/4011158.article">Aromaticity lends stability to carbon-only catenanes</a>
+3.	<a href="https://www.usu.edu/today/story/research-on-remote-usu-chemistry-grad-students-awarded-prestigious-internships">Research on Remote: USU Chemistry Grad Students Awarded Prestigious Internships</a>
+4.	<a href="https://www.usu.edu/today/story/usu-chemist-awarded-prestigious-postdoctoral-post-at-los-alamos-national-lab">USU Chemist Awarded Prestigious Postdoctoral Post at Los Alamos National Lab</a>
+5.	<a href="https://www.nature.com/articles/s43588-023-00420-7">Biasing energy surfaces towards the unknown</a>
 
 Teaching
 ======
