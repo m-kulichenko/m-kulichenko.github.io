@@ -2,7 +2,7 @@
 title: "CHEM 1225 Chemical Principles Lab II"
 collection: teaching
 type: "Chemistry Lab"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2019-spring-teaching-1
 venue: "Utah State University, Department of Chemistry and Biochemistry"
 date: 2019-09-01
 location: "Logan, UT"
