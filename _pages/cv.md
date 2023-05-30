@@ -35,12 +35,17 @@ Work experience
 Skills
 ======
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python, Matlab
+* Machine Learning
+  * PyTorch
+  * Machine learned interatomic potentials
+  * Uncertainty quantification
+  * Atomistic data mining
+* Computational Chemistry
+  * Ab initio and semiempirical frameworks
+  * Molecular dynamics 
+  * Electronic structure analysis, spectroscopy
 
 Awards
 ======
