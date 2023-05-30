@@ -41,12 +41,12 @@ Skills
  keyboard-o -->
 * <i class="fa fa-fw fa-bug" aria-hidden="true"></i>Programming
   * Python, Matlab
-* <li><i class="fa fa-fw fa-database" aria-hidden="true"></i>Machine Learning</li>
+* <i class="fa fa-fw fa-database" aria-hidden="true"></i>Machine Learning
   * PyTorch
   * Machine learned interatomic potentials
   * Uncertainty quantification
   * Atomistic data mining
-* Computational Chemistry
+* <i class="fa fa-fw fa-flask" aria-hidden="true"></i>Computational Chemistry
   * Ab initio and semiempirical frameworks
   * Molecular dynamics 
   * Electronic structure analysis, spectroscopy
