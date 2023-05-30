@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Maksim Kulichenko"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Maksim Kulichenko"
 description              : &description "personal description"
 url                      : https://m-kulichenko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,8 +87,8 @@ author:
   employer         : "Los Alamos National Laboratory, T-1 (Physics and Chemistry of Materials)"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5QlRU5wAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "maxim [at] lanl.gov"
+  researchgate     :  "https://www.researchgate.net/profile/Maksim-Kulichenko"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/m-kulichenko"
+  github           : "m-kulichenko"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6194-3008"
+#  orcid            : "https://orcid.org/0000-0002-6194-3008"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
