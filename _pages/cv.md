@@ -47,13 +47,13 @@ Awards
 
 Publications
 ======
-{% for post in site.publications reversed %}
-  {% include archive-single-publications-cv.html %}
-{% endfor %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-publications-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul style="list-style-type: none;">{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
