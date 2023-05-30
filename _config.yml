@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maksim Kulichenko"
+title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Maksim Kulichenko"
 description              : &description "personal description"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/maksim-kulichenko-a0b954176/"
 #  orcid            : "https://orcid.org/0000-0002-6194-3008"
   pinterest        :
   soundcloud       :

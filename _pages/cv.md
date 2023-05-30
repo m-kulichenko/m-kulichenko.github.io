@@ -52,18 +52,6 @@ Awards
 * Outstanding Graduate Student in Chemistry, Utah State University
 * Teng Scholarship, Utah State University
 
-Publications
-======
-  <ul style="list-style-type: none;">{% for post in site.publications reversed %}
-    {% include archive-single-publications-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-
 Media Highlights
 ======
 1.	<a href="https://www.chemistryworld.com/news/trinuclear-complex-is-a-rare-example-of-bottled-double-aromaticity/4012766.article">Trinuclear complex is a rare example of bottled double aromaticity</a>
@@ -77,6 +65,19 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-teaching-cv.html %}
   {% endfor %}</ul>
+
+Publications
+======
+  <ul style="list-style-type: none;">{% for post in site.publications reversed %}
+    {% include archive-single-publications-cv.html %}
+  {% endfor %}</ul>
+  
+<!-- Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+
   
 <!-- Service and leadership
 ======
