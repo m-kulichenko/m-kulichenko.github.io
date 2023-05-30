@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h3 href="CV_Kulichenko.docx">{{Download full CV}}</h3>
+<a href="CV_Kulichenko.docx">Download full CV</a>
 
 Education
 ======
