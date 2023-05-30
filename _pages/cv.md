@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Applied Mathematics and Physics, Moscow State University, 2018
 * Ph.D in Computational Chemistry, Utah State University, 2022.
-** Advisor: Alexander I. Boldyrev (R. Gaurth Hansen Professor)
+  * Advisor: Alexander I. Boldyrev (R. Gaurth Hansen Professor)
 
 Work experience
 ======
