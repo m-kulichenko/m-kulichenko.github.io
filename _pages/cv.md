@@ -39,7 +39,7 @@ Skills
   Example of bug
    Example of flask
  keyboard-o -->
-* <li><i class="fa fa-fw fa-bug" aria-hidden="true"></i>Programming</li>
+* <i class="fa fa-fw fa-bug" aria-hidden="true"></i>Programming
   * Python, Matlab
 * <li><i class="fa fa-fw fa-database" aria-hidden="true"></i>Machine Learning</li>
   * PyTorch
