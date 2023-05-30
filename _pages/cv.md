@@ -32,17 +32,18 @@ Work experience
 
 Skills
 ======
-* Outstanding Graduate Student in Chemistry, Utah State University
-* Teng Scholarship, Utah State University
 
-Awards
-======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Awards
+======
+* Outstanding Graduate Student in Chemistry, Utah State University
+* Teng Scholarship, Utah State University
 
 Publications
 ======
