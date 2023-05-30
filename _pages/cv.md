@@ -22,8 +22,20 @@ Work experience
 
 * 2020 - 2022: Graduate Contractor
   * Los Alamos National Laboratory
-  
+
+* 2020: Internship
+  * Los Alamos National Laboratory
+
+* 2018 - 2022: Research/Teaching Assistant
+  * Utah State University
+
+
 Skills
+======
+* Outstanding Graduate Student in Chemistry, Utah State University
+* Teng Scholarship, Utah State University
+
+Awards
 ======
 * Skill 1
 * Skill 2
