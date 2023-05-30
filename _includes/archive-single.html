@@ -30,9 +30,9 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.paperurl }}"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-      <pre>
-        <a href="{{ post.paperurl }}">{{ &nbsp;title }}</a>
-      </pre>
+      <div style="white-space: pre;">
+        <a href="{{ post.paperurl }}">{{ title }}</a>
+      </div>
       {% endif %}
     </h2>
     
