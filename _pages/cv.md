@@ -47,7 +47,7 @@ Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-publications-cv.html %}
   {% endfor %}</ul>
   
