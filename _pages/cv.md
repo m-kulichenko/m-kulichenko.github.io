@@ -41,7 +41,7 @@ Skills
   * PyTorch
   * Machine learned interatomic potentials
   * Uncertainty quantification
-  * Atomistic data mining
+  * <li><i class="fa fa-fw fa-database" aria-hidden="true"></i>Atomistic data mining</li>
 * Computational Chemistry
   * Ab initio and semiempirical frameworks
   * Molecular dynamics 
