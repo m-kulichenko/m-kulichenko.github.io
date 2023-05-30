@@ -1,7 +1,7 @@
 ---
 title: "1. Inorganic Molecular Electride Mg4O3: Structure, Bonding and Nonlinear Optical Properties"
 collection: publications
-permalink: 'https://doi.org/10.1002/chem.201806372'
+# permalink: 'https://doi.org/10.1002/chem.201806372'
 excerpt: 'M. Kulichenko, N. Fedik, K. V. Bozhenko, A. I. Boldyrev'
 date: 2009-10-01
 venue: 'Chem. Eur. J'
