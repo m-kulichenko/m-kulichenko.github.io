@@ -47,9 +47,9 @@ Awards
 
 Publications
 ======
-  {% for post in site.publications reversed %}
-    {% include archive-single-publications-cv.html %}
-  {% endfor %}
+{% for post in site.publications reversed %}
+  {% include archive-single-publications-cv.html %}
+{% endfor %}
   
 Talks
 ======
