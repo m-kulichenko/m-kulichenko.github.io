@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ CV_Kulichenko.docx }}">{{Download full CV}}</a>
+
 Education
 ======
 * B.S. in Applied Mathematics and Physics, Moscow State University, 2018
