@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Fall 2020: CHEM 1215 Chemical Principles Lab I"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/2020-fall-teaching-3
+venue: "Utah State University, Department of Chemistry and Biochemistry"
+date: 2020-09-01
+location: "Logan, UT"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

@@ -1,5 +1,5 @@
 ---
-title: "CHEM 1215 Chemical Principles Lab I"
+title: "Spring 2020: CHEM 1215 Chemical Principles Lab I"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2020-spring-teaching-2
