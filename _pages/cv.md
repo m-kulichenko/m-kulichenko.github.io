@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="CV_Kulichenko.docx">{{Download full CV}}</a>
+<h3 href="CV_Kulichenko.docx">{{Download full CV}}</h3>
 
 Education
 ======
@@ -61,7 +61,7 @@ Publications
 
 Media Highlights
 ======
-1.	<p href="https://www.chemistryworld.com/news/trinuclear-complex-is-a-rare-example-of-bottled-double-aromaticity/4012766.article">Trinuclear complex is a rare example of bottled double aromaticity</p>
+1.	<a href="https://www.chemistryworld.com/news/trinuclear-complex-is-a-rare-example-of-bottled-double-aromaticity/4012766.article">Trinuclear complex is a rare example of bottled double aromaticity</a>
 2.	<p href="https://www.chemistryworld.com/news/aromaticity-lends-stability-to-carbon-only-catenanes/4011158.article">Aromaticity lends stability to carbon-only catenanes</p>
 3.	https://www.usu.edu/today/story/research-on-remote-usu-chemistry-grad-students-awarded-prestigious-internships
 4.	https://www.usu.edu/today/story/usu-chemist-awarded-prestigious-postdoctoral-post-at-los-alamos-national-lab
