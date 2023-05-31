@@ -8,8 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-
-TBD_
-======
 My research focuses on applying <b>machine learning</b> to <b>computational chemistry</b> problems.
 
