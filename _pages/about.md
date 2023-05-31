@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-TBD
 
 TBD_
 ======
