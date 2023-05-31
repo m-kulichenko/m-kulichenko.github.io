@@ -12,6 +12,5 @@ TBD
 
 TBD_
 ======
-Computational Chemistry & Machine Learning
 My research focuses on applying <b>machine learning</b> to <b>computational chemistry</b> problems.
 
